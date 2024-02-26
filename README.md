@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abirbhab_24" target="blank"><img src="https://img.shields.io/twitter/follow/abirbhab_24?logo=twitter&style=for-the-badge" alt="abirbhab_24" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **three.js**
 
-- 💬 Ask me about **js**
+- 💬 Ask me about **three.js**
 
 - 📫 How to reach me **codewithad24@gmail.com**
 
