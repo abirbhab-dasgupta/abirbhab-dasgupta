@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 💬 Ask me about **three.js**
 
-- 📫 How to reach me **codewithad24@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
