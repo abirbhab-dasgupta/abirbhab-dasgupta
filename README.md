@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abirbhab Dasgupta</h1>
-<h3 align="center">A developer from India</h3>
+<h3 align="center">A passionate programmer from India</h3>
 
 # 💫 About Me:
  🔭 I’m currently working on backend projects<br> 🌱 I’m currently learning React <br> 📫 How to reach me abirbkhab00dasgupta@gmail.com
