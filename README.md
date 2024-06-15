@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 # 💫 About Me:
- 🔭 I’m currently working on backend projects<br> 🌱 I’m currently learning React <br> 📫 How to reach me abirbkhab00dasgupta@gmail.com
+ 🔭 I’m currently working on backend projects<br> 🌱 I’m currently learning React <br> 📫 How to reach me abirbhab00dasgupta@gmail.com
 
 
 ## 🌐 Socials:
