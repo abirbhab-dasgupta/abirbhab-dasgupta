@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> I'm a  developer  from India🇮🇳</h1>
 
+- 🔭 I’m currently working on **Backend projects**
+
+- 🌱 I’m currently learning **Three js**
+
+- 📫 How to reach me **abirbhab00dasgupta@gmail.com**
+###
+
+
+###
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b7611vhpeqh9bekz9oru9hca2c71yywdb8mpge38yel8t&ep=v1_gifs_search&rid=200.webp&ct=g"  />
@@ -59,7 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/snake.svg" alt="Snake animation" />
 
 ###
 
