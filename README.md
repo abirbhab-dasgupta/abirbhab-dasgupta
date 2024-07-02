@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> I'm a  developer  from India🇮🇳</h1>
 
-- 🔭 I’m currently working on **Backend projects**
+- 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **Three js**
+- 🌱 I’m currently learning **Google cloud deployment**
 
 - 📫 How to reach me **abirbhab00dasgupta@gmail.com**
 ###
