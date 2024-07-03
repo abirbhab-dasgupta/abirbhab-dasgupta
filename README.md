@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> I'm a  developer  from India🇮🇳</h1>
+<h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> A passionate developer  from India🇮🇳</h1>
 
 - 🔭 I’m currently working on **React projects**
 
