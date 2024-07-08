@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> A passionate developer  from India🇮🇳</h1>
-
-- 🔭 I’m currently working on **React projects**
-
-- 🌱 I’m currently learning **Google cloud deployment**
-
-- 📫 How to reach me **abirbhab00dasgupta@gmail.com**
-###
-
-
-###
-###
+<h1 align="center">Hi 👋! My name is Abirbhab Dasgupta<br> A passionate developer  from India</h1>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b7611vhpeqh9bekz9oru9hca2c71yywdb8mpge38yel8t&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 
@@ -60,8 +49,21 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Abirbhab_24?t=q65TIvkp4gTiL2nE9TZuCQ&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge"height="35"  />
   </a>
+  <a href="mailto:abirbhab00dasgupta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=F15432&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+<a href="https://discord.com/invite/rxVJh8py" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="https://linkedin.com/in/abirbhab-dasgupta" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://linktr.ee/abirbhab" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
+</a>
 </div>
 
 ###
