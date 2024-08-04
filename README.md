@@ -51,7 +51,7 @@
   <a href="https://x.com/Abirbhab_24?t=q65TIvkp4gTiL2nE9TZuCQ&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge"height="35"  />
   </a>
-  <a href="mailto:abirbhab00dasgupta@gmail.com" target="_blank">
+  <a href="abirbhab00dasgupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=F15432&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 <a href="https://discord.com/invite/rxVJh8py" target="_blank">
