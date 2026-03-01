@@ -1,10 +1,10 @@
-<h2 align="left">Hello tech enthusiasts👋! My name is Abirbhab Dasgupta and I'm a software developer from India</h2>
+<h2 align="left">Hello tech enthusiasts👋! My name is Abirbhab Dasgupta and I'm a passionate developer from India</h2>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abirbhab-dasgupta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
 </div>
 
 ###
@@ -73,14 +73,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg?v=1">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg?v=1">
+  </picture>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abirbhab-dasgupta/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/abirbhab-dasgupta/count.svg?" alt="Profile Views" />
 </div>
