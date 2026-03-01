@@ -1,10 +1,10 @@
-<h2 align="left">Hello tech enthusiasts👋! My name is Abirbhab Dasgupta and I'm a passionate developer from India</h2>
+<h2 align="left">Hello tech enthusiasts👋! My name is Abirbhab Dasgupta and I'm a software developer from India</h2>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abirbhab-dasgupta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
 </div>
 
 ###
@@ -84,5 +84,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abirbhab-dasgupta/count.svg?" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=abirbhab-dasgupta&icon=2&color=1" alt="Profile Views" />
+  </a>
 </div>
