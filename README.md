@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abirbhab-dasgupta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abirbhab-dasgupta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="streak graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirbhab-dasgupta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph"  /> -->
 </div>
 
 ###
@@ -74,17 +74,17 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg?v=1">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abirbhab-dasgupta/abirbhab-dasgupta/output/pacman-contribution-graph.svg?v=1">
-  </picture>
+  <h2>📊 GitHub Stats & Contributions:</h2>
+  
+  
+  
+  <br/><br/>
+  
+  [![GitHub Contribution Graph](https://ghchart.rshah.org/abirbhab-dasgupta)](https://github.com/abirbhab-dasgupta)
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=abirbhab-dasgupta&icon=2&color=1" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abirbhab-dasgupta&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
